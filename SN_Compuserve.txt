@@ -1,0 +1,26 @@
+11	14
+0	38.9	-77.0	64	3600	m2	Washington_DC
+1	42.3	-71.0	96	3800	m6	Boston
+2	40.7	-74.0	64	3600	m2	New_York
+3	47.3	-122.3	64	3600	m2	Seattle
+4	37.8	-122.4	48	1800	m1	San_Francisco
+5	34.0	-118.2	96	3800	m6	Los_Angeles
+6	32.8	-96.8	48	1800	m1	Dallas
+7	29.8	-95.4	96	3800	m6	Houston
+8	33.7	-84.4	96	3800	m6	Atlanta
+9	39.9	-83.0	48	1800	m1	Columbus
+10	41.8	-87.3	64	3800	m3	Chicago
+0	8	0	20	1495.1	2.9	Washington_DC	Atlanta
+1	9	0	40	1332.0	1.9	Washington_DC	Columbus
+2	2	0	100	334.9	0.5	Washington_DC	New_York
+3	2	1	40	334.9	0.6	Boston	New_York
+4	10	1	40	1811.4	3.0	Boston	Chicago
+5	10	3	100	1811.4	2.2	Seattle	Chicago
+6	4	3	20	5709.8	8.3	Seattle	San_Francisco
+7	5	4	40	5235.9	9.3	San_Francisco	Los_Angeles
+8	9	4	50	1332.0	2.0	San_Francisco	Columbus
+9	6	5	50	2858.4	5.0	Los_Angeles	Dallas
+10	7	6	100	2694.5	4.8	Dallas	Houston
+11	9	6	80	1332.0	2.0	Dallas	Columbus
+12	8	7	40	1495.1	2.6	Houston	Atlanta
+13	10	7	80	1811.4	2.4	Houston	Chicago
